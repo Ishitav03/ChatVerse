@@ -19,7 +19,7 @@ function App() {
   };
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename ="/ChatVerse">
       <Routes>
         <Route path="/">
           <Route
