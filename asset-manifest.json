@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ChatVerse/static/css/main.e92564c5.css",
-    "main.js": "/ChatVerse/static/js/main.30e65c94.js",
+    "main.js": "/ChatVerse/static/js/main.449c1b73.js",
     "static/media/bg1.jpg": "/ChatVerse/static/media/bg1.b828960b70ab042b462b.jpg",
     "static/media/bg.jpg": "/ChatVerse/static/media/bg.fcb4fb1c0fa3d0510ec1.jpg",
     "index.html": "/ChatVerse/index.html",
     "main.e92564c5.css.map": "/ChatVerse/static/css/main.e92564c5.css.map",
-    "main.30e65c94.js.map": "/ChatVerse/static/js/main.30e65c94.js.map"
+    "main.449c1b73.js.map": "/ChatVerse/static/js/main.449c1b73.js.map"
   },
   "entrypoints": [
     "static/css/main.e92564c5.css",
-    "static/js/main.30e65c94.js"
+    "static/js/main.449c1b73.js"
   ]
 }
